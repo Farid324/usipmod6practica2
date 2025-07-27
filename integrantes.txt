@@ -3,6 +3,9 @@ Practica 2 Vue3
 Nombre(s) de integrante(s):
 - Farid Arancibia
 
+Temática:
+Tienda de Ropa - Gestión de Prendas y Categorías
+
 Pasos para iniciar el proyecto:
 1) Instalar dependencias:
    npm install
