@@ -1,0 +1,50 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Camisas"
+    },
+    {
+      "id": "2",
+      "nombre": "Pantalones"
+    },
+    {
+      "id": "3",
+      "nombre": "Accesorios"
+    }
+  ],
+  "prendas": [
+    {
+      "id": "1",
+      "nombre": "Camisa Azul",
+      "talla": "M",
+      "color": "Azul",
+      "precio": 50,
+      "id_categoria": 1
+    },
+    {
+      "id": "2",
+      "nombre": "Pantalón Negro",
+      "talla": "L",
+      "color": "Negro",
+      "precio": 75,
+      "id_categoria": 2
+    },
+    {
+      "id": "3",
+      "nombre": "Cinturón de Cuero",
+      "talla": "Única",
+      "color": "Café",
+      "precio": 30,
+      "id_categoria": 3
+    },
+    {
+      "id": "2ce8",
+      "nombre": "Berskha caqui",
+      "talla": "15",
+      "color": "rojo",
+      "precio": 8,
+      "id_categoria": "2"
+    }
+  ]
+}
